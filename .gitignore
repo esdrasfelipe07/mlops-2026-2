@@ -7,3 +7,4 @@ models
 .coverage
 htmlcov/
 .venv/
+*.zip
